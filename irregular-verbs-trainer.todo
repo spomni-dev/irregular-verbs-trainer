@@ -1,3 +1,4 @@
+☐ Update data base
 ☐ Comment verb-trainer as JSDoc style
 ☐ Rewrite irregular-verbs-trainer with spStdLib
 ☐ Add feature: switch showNextTense button to goNextVerb button on all tanses are showed; delete goNextVerb button.
