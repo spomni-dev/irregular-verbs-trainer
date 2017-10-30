@@ -3,8 +3,9 @@ Global:
   ✔ Create file wtih VerbTrainer constructor @done (17-09-11 13:11)
 Features:
   ☐ Add feature: combain showNextTenses and goToNextVerb buttons on one element.
+  ☐ Add feature: add option to select DB version
 Database:
-  ☐ Update data base to v1.?.1
+  ☐ Update DB to v1.?.1
 Fixes:
   ☐ Comment verb-trainer as JSDoc style
   ✔ Set max-wiewport @done (17-09-11 13:07)
