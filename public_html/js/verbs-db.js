@@ -2,6 +2,7 @@
  *  Structure of the inner array - ["%infinitive% %transcription%", %past simple% %transcription%, %past participle% %transcription%]
  */
 var verbDB = [
+  // v1.?.0
   ["begin [biˈgin]", "began [bɪˈgæn]", "begun [bɪˈgʌn]"],
   ["come [kʌm]", "came [keɪm]", "come [kʌm]"],
   ["do [duː]", "did [dɪd]", "done [dʌn]"],
@@ -22,5 +23,21 @@ var verbDB = [
   ["sleep [sliːp]", "slept [slɛpt]", "slept [slɛpt]"],
   [
   "understand [ˌʌndəˈstænd]", "understood [ˌʌndəˈstʊd]", "understood [ˌʌndəˈstʊd]"],
-  ["wake [weɪk]", "woke [wəʊk]", "woken [ˈwəʊkən]"]
+  ["wake [weɪk]", "woke [wəʊk]", "woken [ˈwəʊkən]"],
+
+  // v1.?.1
+  ["fall [fɔːl]", "fell [fɛl]", "fallen [ˈfɔːlən]"],
+  ["find [faɪnd]", "found [faʊnd]", "found [faʊnd]"],
+  ["give [gɪv]", "gave [geɪv]", "given [ˈgɪvn]"],
+  ["know [nəʊ]", "knew [njuː]", "known [nəʊn]"],
+  ["lie [laɪ]", "lay [leɪ]", "lain [leɪn]"],
+  ["meet [miːt]", "met [mɛt]", "met [mɛt]"],
+  ["read [riːd]", "read [rɛd]", "read [rɛd]"],
+  ["spend [spɛnd]", "spent [spɛnt]", "spent [spɛnt]"],
+  ["teach [tiːʧ]", "taught [tɔːt]", "taught [tɔːt]"],
+  ["tell [tɛl]", "told [təʊld]", "told [təʊld]"],
+  ["think [θɪŋk]", "thought [θɔːt]", "thought [θɔːt]"],
+  ["throw [θrəʊ]", "threw [θruː]", "thrown [θrəʊn]"],
+  ["write [raɪt]", "wrote [rəʊt]", "written [ˈrɪtn]"]
+
 ];
