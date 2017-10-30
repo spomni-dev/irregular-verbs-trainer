@@ -1,0 +1,5 @@
+☐ Comment verb-trainer as JSDoc style
+☐ Rewrite irregular-verbs-trainer with spStdLib
+☐ Add feature: switch showNextTense button to goNextVerb button on all tanses are showed; delete goNextVerb button.
+✔ Create file wtih VerbTrainer constructor @done (17-09-11 13:11)
+✔ Set max-wiewport @done (17-09-11 13:07)
