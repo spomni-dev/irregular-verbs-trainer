@@ -5,7 +5,7 @@ Features:
   ☐ Add feature: combain showNextTenses and goToNextVerb buttons on one element.
   ☐ Add feature: add option to select DB version
 Database:
-  ☐ Update DB to v1.?.2
+  ✔ Update DB to v1.?.2 @done (2017-11-4 11:28:26)
   ✔ Update DB to v1.?.1 @done (2017-10-30 19:20:10)
 Fixes:
   ☐ Comment verb-trainer as JSDoc style

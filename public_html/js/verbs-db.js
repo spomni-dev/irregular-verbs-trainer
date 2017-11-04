@@ -1,5 +1,6 @@
 /** Array of arrays containing the verbs tenses
  *  Structure of the inner array - ["%infinitive% %transcription%", %past simple% %transcription%, %past participle% %transcription%]
+ *  Transcriptions are getted from http://lingorado.com/transcription/
  */
 var verbDB = [
   // v1.?.0
@@ -39,5 +40,11 @@ var verbDB = [
   ["think [θɪŋk]", "thought [θɔːt]", "thought [θɔːt]"],
   ["throw [θrəʊ]", "threw [θruː]", "thrown [θrəʊn]"],
   ["write [raɪt]", "wrote [rəʊt]", "written [ˈrɪtn]"]
+
+  // v1.?.1
+  ["buy [baɪ]", "bought [bɔːt]", "bought [bɔːt]"],
+  ["drink [drɪŋk]", "drank [dræŋk]", "drunk [drʌŋk]"],
+  ["sell [sɛl]", "sold [səʊld]", "sold [səʊld]"],
+  ["swim [wɪm]", "swam [swæm]", "swum [swʌm]"]
 
 ];
