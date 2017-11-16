@@ -41,10 +41,9 @@ var verbDB = [
   ["throw [θrəʊ]", "threw [θruː]", "thrown [θrəʊn]"],
   ["write [raɪt]", "wrote [rəʊt]", "written [ˈrɪtn]"]
 
-  // v1.?.1
+  // v1.?.2
   ["buy [baɪ]", "bought [bɔːt]", "bought [bɔːt]"],
   ["drink [drɪŋk]", "drank [dræŋk]", "drunk [drʌŋk]"],
   ["sell [sɛl]", "sold [səʊld]", "sold [səʊld]"],
   ["swim [wɪm]", "swam [swæm]", "swum [swʌm]"]
-
 ];
