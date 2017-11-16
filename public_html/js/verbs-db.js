@@ -46,4 +46,12 @@ var verbDB = [
   ["drink [drɪŋk]", "drank [dræŋk]", "drunk [drʌŋk]"],
   ["sell [sɛl]", "sold [səʊld]", "sold [səʊld]"],
   ["swim [wɪm]", "swam [swæm]", "swum [swʌm]"]
+
+  // v1.?.3
+  ["eat [iːt]", "ate [ɛt]", "eaten [ˈiːtn]"],
+  ["feel [fiːl]", "felt [fɛlt]", "felt [fɛlt]"],
+  ["hear [hɪə]", "heard [hɜːd]", "heard [hɜːd]"],
+  ["stand [stænd]", "stood [stʊd]", "stood [stʊd]"],
+  ["win [wɪn]", "won [wʌn]", "won [wʌn]"]
+
 ];
