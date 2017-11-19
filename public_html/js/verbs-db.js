@@ -22,8 +22,7 @@ var verbDB = [
   ["say [seɪ]", "said [sɛd]", "said [sɛd]"],
   ["sit [sɪt]", "sat [sæt]", "sat [sæt]"],
   ["sleep [sliːp]", "slept [slɛpt]", "slept [slɛpt]"],
-  [
-  "understand [ˌʌndəˈstænd]", "understood [ˌʌndəˈstʊd]", "understood [ˌʌndəˈstʊd]"],
+  ["understand [ˌʌndəˈstænd]", "understood [ˌʌndəˈstʊd]", "understood [ˌʌndəˈstʊd]"],
   ["wake [weɪk]", "woke [wəʊk]", "woken [ˈwəʊkən]"],
 
   // v1.?.1
@@ -39,13 +38,13 @@ var verbDB = [
   ["tell [tɛl]", "told [təʊld]", "told [təʊld]"],
   ["think [θɪŋk]", "thought [θɔːt]", "thought [θɔːt]"],
   ["throw [θrəʊ]", "threw [θruː]", "thrown [θrəʊn]"],
-  ["write [raɪt]", "wrote [rəʊt]", "written [ˈrɪtn]"]
+  ["write [raɪt]", "wrote [rəʊt]", "written [ˈrɪtn]"],
 
   // v1.?.2
   ["buy [baɪ]", "bought [bɔːt]", "bought [bɔːt]"],
   ["drink [drɪŋk]", "drank [dræŋk]", "drunk [drʌŋk]"],
   ["sell [sɛl]", "sold [səʊld]", "sold [səʊld]"],
-  ["swim [wɪm]", "swam [swæm]", "swum [swʌm]"]
+  ["swim [wɪm]", "swam [swæm]", "swum [swʌm]"],
 
   // v1.?.3
   ["eat [iːt]", "ate [ɛt]", "eaten [ˈiːtn]"],

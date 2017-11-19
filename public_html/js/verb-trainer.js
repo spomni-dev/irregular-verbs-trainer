@@ -36,8 +36,12 @@ function VerbTrainer(verbDB){
     if ( restVerbDB.length < 1) restVerbDB = copyArray( verbDB );
     if (restVerbDB.length > 0){
       verbNumber = randomInteger(0, restVerbDB.length-1);
-      changeVerb( restVerbDB[verbNumber] );
+      var changeResult = changeVerb( restVerbDB[verbNumber] );
       var deletedVerb = restVerbDB.splice(verbNumber, 1);
+
+      if ( changeResult.error ){
+        self.goToNextVerb();
+      }
     } 
   }
 
@@ -55,11 +59,19 @@ function VerbTrainer(verbDB){
     bem.lib.setModifier(tenseNodes[tense], 'verb-trainer__'+tense+'_visibility_true');
   } // showTense
   function changeVerb(arrVerbTenses) {
+    if ( !(arrVerbTenses instanceof Array) ) {
+      return {
+        error: true, 
+        message: "Invalid input param: arrVerbTense must be instance of Array."
+      }
+    ;}
     hideTense('pastSimple');
     hideTense('participle');
     tenseNodes.infinitive.innerHTML = arrVerbTenses[0];
     tenseNodes.pastSimple.innerHTML = arrVerbTenses[1];
     tenseNodes.participle.innerHTML = arrVerbTenses[2];
+
+    return {error: false}
   } // changeVerb
 
   function camelToBem(string) {

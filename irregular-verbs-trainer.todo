@@ -9,5 +9,6 @@ Database:
   ✔ Update DB to v1.?.2 @done (2017-11-4 11:28:26)
   ✔ Update DB to v1.?.1 @done (2017-10-30 19:20:10)
 Fixes:
+  ✔ Fix verbs repeat @done (2017-11-19 06:18:28)
   ☐ Comment verb-trainer as JSDoc style
   ✔ Set max-wiewport @done (17-09-11 13:07)
