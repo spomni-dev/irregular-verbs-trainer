@@ -51,6 +51,13 @@ var verbDB = [
   ["feel [fiːl]", "felt [fɛlt]", "felt [fɛlt]"],
   ["hear [hɪə]", "heard [hɜːd]", "heard [hɜːd]"],
   ["stand [stænd]", "stood [stʊd]", "stood [stʊd]"],
-  ["win [wɪn]", "won [wʌn]", "won [wʌn]"]
+  ["win [wɪn]", "won [wʌn]", "won [wʌn]"],
+
+  // v1.?.4
+  ["cut [kʌt]", "cut [kʌt]", "cut [kʌt]"],
+  ["forget [fəˈgɛt]", "forgot [fəˈgɒt]", "forgotten [fəˈgɒtn]"],
+  ["let [lɛt]", "let [lɛt]", "let [lɛt]"],
+  ["pay [peɪ]", "paid [peɪd]", "paid [peɪd]"],
+  ["steal [stiːl]", "stole [stəʊl]", "stolen [ˈstəʊlən]"]
 
 ];
