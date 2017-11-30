@@ -60,4 +60,11 @@ var verbDB = [
   ["pay [peɪ]", "paid [peɪd]", "paid [peɪd]"],
   ["steal [stiːl]", "stole [stəʊl]", "stolen [ˈstəʊlən]"]
 
+  // v1.?.5
+  ["cost [kɒst]", "cost [kɒst]", "cost [kɒst]"],
+  ["drive [draɪv]", "drove [drəʊv]", "driven [ˈdrɪvn]"],
+  ["lend [lɛnd]", "lent [lɛnt]", "lent [lɛnt]"],
+  ["put [pʊt]", "put [pʊt]", "put [pʊt]"],
+  ["speak [spiːk]", "spoke [spəʊk]", "spoken [ˈspəʊkən]"]
+    
 ];
