@@ -66,5 +66,12 @@ var verbDB = [
   ["lend [lɛnd]", "lent [lɛnt]", "lent [lɛnt]"],
   ["put [pʊt]", "put [pʊt]", "put [pʊt]"],
   ["speak [spiːk]", "spoke [spəʊk]", "spoken [ˈspəʊkən]"]
+
+  // v1.?.6
+  ["break [breɪk]", "broke [brəʊk]", "broken [ˈbrəʊkən]"],
+  ["build [bɪld]", "built [bɪlt]", "built [bɪlt]"],
+  ["choose [ʧuːz]", "chose [ʧəʊz]", "chosen [ˈʧəʊzn]"],
+  ["lose [luːz]", "lost [lɒst]", "lost [lɒst]"],
+  ["send [sɛnd]", "sent [sɛnt]", "sent [sɛnt]"]
     
 ];
