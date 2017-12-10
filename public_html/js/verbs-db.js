@@ -73,5 +73,13 @@ var verbDB = [
   ["choose [ʧuːz]", "chose [ʧəʊz]", "chosen [ˈʧəʊzn]"],
   ["lose [luːz]", "lost [lɒst]", "lost [lɒst]"],
   ["send [sɛnd]", "sent [sɛnt]", "sent [sɛnt]"]
-    
+
+  // v1.?.7
+  ["become [bɪˈkʌm]", "became [bɪˈkeɪm]", "become [bɪˈkʌm]"],
+  ["catch [kæʧ]", "caught [kɔːt]", "caught [kɔːt]"],
+  ["feed [fiːd]", "fed [fɛd]", "fed [fɛd]"],
+  ["fly [flaɪ]", "flew [fluː]", "flown [fləʊn]"],
+  ["learn [lɜːn]", "learnt/learned [lɜːnt/lɜːnt]", "learnt/learned [lɜːnt/lɜːnt]"],
+  ["set [sɛt]", "set [sɛt]", "set [sɛt]"],
+  ["wear [weə]", "wore [wɔː]", "worn [wɔːn]"]
 ];
