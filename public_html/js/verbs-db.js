@@ -58,21 +58,21 @@ var verbDB = [
   ["forget [fəˈgɛt]", "forgot [fəˈgɒt]", "forgotten [fəˈgɒtn]"],
   ["let [lɛt]", "let [lɛt]", "let [lɛt]"],
   ["pay [peɪ]", "paid [peɪd]", "paid [peɪd]"],
-  ["steal [stiːl]", "stole [stəʊl]", "stolen [ˈstəʊlən]"]
+  ["steal [stiːl]", "stole [stəʊl]", "stolen [ˈstəʊlən]"],
 
   // v1.?.5
   ["cost [kɒst]", "cost [kɒst]", "cost [kɒst]"],
   ["drive [draɪv]", "drove [drəʊv]", "driven [ˈdrɪvn]"],
   ["lend [lɛnd]", "lent [lɛnt]", "lent [lɛnt]"],
   ["put [pʊt]", "put [pʊt]", "put [pʊt]"],
-  ["speak [spiːk]", "spoke [spəʊk]", "spoken [ˈspəʊkən]"]
+  ["speak [spiːk]", "spoke [spəʊk]", "spoken [ˈspəʊkən]"],
 
   // v1.?.6
   ["break [breɪk]", "broke [brəʊk]", "broken [ˈbrəʊkən]"],
   ["build [bɪld]", "built [bɪlt]", "built [bɪlt]"],
   ["choose [ʧuːz]", "chose [ʧəʊz]", "chosen [ˈʧəʊzn]"],
   ["lose [luːz]", "lost [lɒst]", "lost [lɒst]"],
-  ["send [sɛnd]", "sent [sɛnt]", "sent [sɛnt]"]
+  ["send [sɛnd]", "sent [sɛnt]", "sent [sɛnt]"],
 
   // v1.?.7
   ["become [bɪˈkʌm]", "became [bɪˈkeɪm]", "become [bɪˈkʌm]"],

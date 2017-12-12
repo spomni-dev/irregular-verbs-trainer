@@ -5,6 +5,7 @@ Features:
   ☐ Add feature: combain showNextTenses and goToNextVerb buttons on one element.
   ☐ Add feature: add option to select DB version
 Database:
+  ☐ Update DB to v1.?.8
   ✔ Update DB to v1.?.7 @done (2017-12-11 02:32:05)
   ✔ Update DB to v1.?.6 @done (2017-12-8 11:29:58)
   ✔ Update DB to v1.?.5 @done (2017-11-30 04:51:59)
