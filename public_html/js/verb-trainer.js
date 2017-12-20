@@ -1,4 +1,4 @@
-/* 
+/*
  * @reqiere BEM_v0.1p in variable named "bem"
  * @reqiere spStdLib_v0.1p in variable named "sl"
   verb-trainer
@@ -42,7 +42,7 @@ function VerbTrainer(verbDB){
       if ( changeResult.error ){
         self.goToNextVerb();
       }
-    } 
+    }
   }
 
 
@@ -61,7 +61,7 @@ function VerbTrainer(verbDB){
   function changeVerb(arrVerbTenses) {
     if ( !(arrVerbTenses instanceof Array) ) {
       return {
-        error: true, 
+        error: true,
         message: "Invalid input param: arrVerbTense must be instance of Array."
       }
     ;}
@@ -92,8 +92,8 @@ function VerbTrainer(verbDB){
     var rand = min + Math.random() * (max + 1 - min);
     rand = Math.floor(rand);
     return rand;
-  } // randomInteger  
-  
+  } // randomInteger
+
   function copyArray(array){
     if (array instanceof Array){
       var newArray = [];
