@@ -81,5 +81,15 @@ var verbDB = [
   ["fly [flaɪ]", "flew [fluː]", "flown [fləʊn]"],
   ["learn [lɜːn]", "learnt/learned [lɜːnt/lɜːnt]", "learnt/learned [lɜːnt/lɜːnt]"],
   ["set [sɛt]", "set [sɛt]", "set [sɛt]"],
+  ["wear [weə]", "wore [wɔː]", "worn [wɔːn]"],
+
+  // v1.?.8
+  ["bring [brɪŋ]", "brought [brɔːt]", "brought [brɔːt]"],
+  ["freeze [friːz]", "froze [frəʊz]", "frozen [ˈfrəʊzn]"],
+  ["hide [haɪd]", "hid [hɪd]", "hidden [ˈhɪdn]"],
+  ["mean [miːn]", "meant [mɛnt]", "meant [mɛnt]"],
+  ["shake [ʃeɪk]", "shook [ʃʊk]", "shaken [ˈʃeɪkən]"],
+  ["smell [smɛl]", "smelt [smɛlt]", "smelt [smɛlt]"],
   ["wear [weə]", "wore [wɔː]", "worn [wɔːn]"]
+
 ];
