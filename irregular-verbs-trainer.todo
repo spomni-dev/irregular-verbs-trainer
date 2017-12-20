@@ -1,18 +1,19 @@
-Global:
-  ☐ Rewrite irregular-verbs-trainer with spStdLib
-  ✔ Create file wtih VerbTrainer constructor @done (17-09-11 13:11)
-Features:
-  ☐ Add feature: combain showNextTenses and goToNextVerb buttons on one element.
-  ☐ Add feature: add option to select DB version
-Database:
-  ✔ Update DB to v1.?.7 @done (2017-12-11 02:32:05)
-  ✔ Update DB to v1.?.6 @done (2017-12-8 11:29:58)
-  ✔ Update DB to v1.?.5 @done (2017-11-30 04:51:59)
-  ✔ Update DB to v1.?.4 @done (2017-11-21 09:15:54)
-  ✔ Update DB to v1.?.3 @done (2017-11-16 04:40:42)
-  ✔ Update DB to v1.?.2 @done (2017-11-4 11:28:26)
-  ✔ Update DB to v1.?.1 @done (2017-10-30 19:20:10)
-Fixes:
-  ✔ Fix verbs repeat @done (2017-11-19 06:18:28)
-  ☐ Comment verb-trainer as JSDoc style
-  ✔ Set max-wiewport @done (17-09-11 13:07)
+00 Global:
+  ☐ #00-1 Rewrite irregular-verbs-trainer with spStdLib
+  ☐ #00-2 Add numbering system of the tasks
+  ✔ #00-0 Create file wtih VerbTrainer constructor @done (17-09-11 13:11)
+01 Features:
+  ☐ #01-0 Add feature: combain showNextTenses and goToNextVerb buttons on one element.
+  ☐ #01-1 Add feature: add option to select DB version
+02 Database:
+  ✔ #02-0 Update DB to v1.?.7 @done (2017-12-11 02:32:05)
+  ✔ #02-1 Update DB to v1.?.6 @done (2017-12-8 11:29:58)
+  ✔ #02-2 Update DB to v1.?.5 @done (2017-11-30 04:51:59)
+  ✔ #02-3 Update DB to v1.?.4 @done (2017-11-21 09:15:54)
+  ✔ #02-4 Update DB to v1.?.3 @done (2017-11-16 04:40:42)
+  ✔ #02-5 Update DB to v1.?.2 @done (2017-11-4 11:28:26)
+  ✔ #02-6 Update DB to v1.?.1 @done (2017-10-30 19:20:10)
+03 Fixes:
+  ✔ #03-0 Fix verbs repeat @done (2017-11-19 06:18:28)
+  ☐ #03-1 Comment verb-trainer as JSDoc style
+  ✔ #03-2 Set max-wiewport @done (17-09-11 13:07)
