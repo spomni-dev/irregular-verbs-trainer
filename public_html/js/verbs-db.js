@@ -90,6 +90,21 @@ var verbDB = [
   ["mean [miːn]", "meant [mɛnt]", "meant [mɛnt]"],
   ["shake [ʃeɪk]", "shook [ʃʊk]", "shaken [ˈʃeɪkən]"],
   ["smell [smɛl]", "smelt [smɛlt]", "smelt [smɛlt]"],
-  ["wear [weə]", "wore [wɔː]", "worn [wɔːn]"]
+  ["wear [weə]", "wore [wɔː]", "worn [wɔːn]"],
+
+  // v1.?.9
+  ["blow [bləʊ]", "blew [bluː]", "blown [bləʊn]"],
+  ["draw [drɔː]", "drew [druː]", "drown [draʊn]"],
+  ["fight [faɪt]", "fought [fɔːt]", "fought [fɔːt]"],
+  ["grow [grəʊ]", "grew [gruː]", "grown [grəʊn]"],
+  ["hit [hɪt]", "hit [hɪt]", "hit [hɪt]"],
+  ["hold [həʊld]", "held [hɛld]", "held [hɛld]"],
+  ["keep [kiːp]", "kept [kɛpt]", "kept [kɛpt]"],
+  ["ride [raɪd]", "rode [rəʊd]", "ridden [ˈrɪdn]"],
+  ["rise [raɪz]", "rose [rəʊz]", "risen [ˈrɪzn]"],
+  ["shine [ʃaɪn]", "shone [ʃɒn]", "shone [ʃɒn]"],
+  ["shoot [ʃuːt]", "shot [ʃɒt]", "shot [ʃɒt]"],
+  ["strike [straɪk]", "struck [strʌk]", "struck [strʌk]"],
+  ["upset [ʌpˈsɛt]", "upset [ʌpˈsɛt]", "upset [ʌpˈsɛt]"]
 
 ];
