@@ -6,7 +6,8 @@
   ☐ #01-0 Add feature: combain showNextTenses and goToNextVerb buttons on one element.
   ☐ #01-1 Add feature: add option to select DB version
 02 Database:
-  ☐ #02-6 Update DB to v1.?.8
+  ☐ #02-7 Update DB to v1.?.9
+  ✔ #02-6 Update DB to v1.?.8 @done (2018-1-1 18:28:55)
   ✔ #02-0 Update DB to v1.?.7 @done (2017-12-11 02:32:05)
   ✔ #02-1 Update DB to v1.?.6 @done (2017-12-8 11:29:58)
   ✔ #02-2 Update DB to v1.?.5 @done (2017-11-30 04:51:59)
