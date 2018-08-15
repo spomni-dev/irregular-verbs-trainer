@@ -1,3 +1,4 @@
+
 /*
  * @reqiere BEM_v0.1p in variable named "bem"
  * @reqiere spStdLib_v0.1p in variable named "sl"
@@ -59,14 +60,29 @@ function VerbTrainer(verbDB){
     bem.lib.setModifier(tenseNodes[tense], 'verb-trainer__'+tense+'_visibility_true');
   } // showTense
   function changeVerb(arrVerbTenses) {
+  
+    var tenseNames = [
+      'infinitive',
+      'pastSimple',
+      'participle'
+    ];
+    var visibleTenseNumber = randomInteger(0, 2)
+  
     if ( !(arrVerbTenses instanceof Array) ) {
       return {
         error: true,
         message: "Invalid input param: arrVerbTense must be instance of Array."
       }
-    ;}
-    hideTense('pastSimple');
-    hideTense('participle');
+    }
+    
+    tenseNames.forEach((tenseName, indx) => {
+      if (indx !== visibleTenseNumber){
+        hideTense(tenseName)
+      } else {
+        showTense(tenseName)
+      }
+    })
+
     tenseNodes.infinitive.innerHTML = arrVerbTenses[0];
     tenseNodes.pastSimple.innerHTML = arrVerbTenses[1];
     tenseNodes.participle.innerHTML = arrVerbTenses[2];
